@@ -37,3 +37,6 @@ target/
 # node modules
 node_modules/
 .env
+modules/ROOT/pages/life-sciences/supply-chain-pharma/supply-chain-pharma.adoc
+
+modules/ROOT/pages/life-sciences/supply-chain-pharma/index.adoc

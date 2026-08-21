@@ -21,12 +21,16 @@ fundamental understanding of biology.
 
 == Use Cases
 
-The use cases below illustrate how omics data integration can drive insights in life sciences research and development.
-
-=== xref:life-sciences/research-development/single-omics.adoc[Single-omics Data Integration]
-
-Single-omics data integration focuses on combining datasets within a single omics domain, such as genomics or proteomics.
+The use cases below illustrate how integrated molecular data - within one omics domain, across several, and across the public biomarker evidence base - can drive insights in life sciences research and development.
 
 === xref:life-sciences/research-development/multi-omics.adoc[Multi-omics Data Integration]
 
 Multi-omics data integration involves combining datasets from multiple omics domains to provide a more comprehensive view of biological systems.
+
+=== xref:life-sciences/research-development/biomarker-discovery.adoc[Biomarker Discovery and Prioritisation]
+
+Where the omics use cases integrate an organisation's own measurements, this one integrates the public evidence base: tens of thousands of published biomarker claims, each using its own identifiers and disease vocabulary. Modelling them as a graph turns "what should we measure for this indication?" into a shortlist ranked by evidence depth, measurability and specificity.
+
+=== xref:life-sciences/research-development/single-omics.adoc[Single-omics Data Integration]
+
+Single-omics data integration focuses on combining datasets within a single omics domain, such as genomics or proteomics.

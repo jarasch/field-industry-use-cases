@@ -72,6 +72,12 @@ Multi-omics data integration evolves the single-omics implementation into a more
 
 * xref:life-sciences/research-development/multi-omics.adoc[]
 
+=== Biomarker Discovery and Prioritisation
+
+Biomarkers decide which patients enter a trial, whether a therapy is working, and whether a disease is caught early enough to treat. The bottleneck is not finding candidates - tens of thousands already exist in the public domain - but ranking them, when every source uses its own identifiers, its own disease vocabulary and its own idea of what counts as "the biomarker".
+
+* xref:life-sciences/research-development/biomarker-discovery.adoc[Biomarker Discovery and Prioritisation]
+
 == Quality
 
 xref:life-sciences/quality/index.adoc[Quality] turns fragmented quality data - complaints, deviations, and CAPAs spread across QMS, MES, LIMS, ERP, and supplier systems - into a single knowledge graph. Root-cause investigations, recall scoping, and CAPA effectiveness checks become graph traversals that run in minutes rather than weeks.
@@ -99,3 +105,7 @@ Trace the full lifecycle from supplier to distributor and scope a precise recall
 All three examples combined into one connected quality model.
 
 * xref:life-sciences/quality/unified-quality-graph.adoc[The Unified Quality Graph]
+
+== Pharma Supply Chain
+
+xref:life-sciences/supply-chain-pharma/index.adoc[Pharma Supply Chain] connects suppliers, contract manufacturers, distributors, and pharmacies into a single traceable network, turning multi-tier lot genealogy, serialization, and disruption impact into graph traversals instead of painful cross-system reconciliation.
